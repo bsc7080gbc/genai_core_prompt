@@ -1,6 +1,6 @@
 # genai_core_prompt
 
-I have been trying to explain that to people. hallucinations and bad answers is more often our fault than the training or LLM in general.
+Hallucinations and bad answers are more often than not our fault rather than the training or LLM in general.
 
 While it is known that fundamentally GenAI is essentially guessing the next best word...a token predictor, without context we allow it to meander with too many pathways that lead away from our desired results.
 
